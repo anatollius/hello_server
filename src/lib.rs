@@ -81,8 +81,3 @@ impl Worker {
         }
     }
 }
-
-#[derive(PartialEq, PartialOrd)]
-struct Beep {
-    boop: f32,
-}
